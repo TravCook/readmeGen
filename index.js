@@ -58,7 +58,7 @@ async function userQuestions(){
     let myReadme = 
 `
 ##################################${response.title}######################################
-*${response.description}
+* ${response.description}
 #########################################################################################
 * Table of Contents
   1. Installation
@@ -92,14 +92,3 @@ writeFileAsync("README.md", myReadme, function(err) {
   })
 }
 userQuestions();
-
-
-
-
-
-// function init() {
-
-// }
-
-
-// init();
