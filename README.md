@@ -1,6 +1,9 @@
 
 ##############################TravCook's README Generator##################################
 * This application is a command line application in which a user just has to answer a series of prompts and gets a professional level README generated for them.
+#######################################DEMO#################################################
+![](Develop\DemoQuestions.gif) ![](Develop\DEMOReadme.gif)
+
 #########################################################################################
 * Table of Contents
   1. Installation
